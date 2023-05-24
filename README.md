@@ -5,7 +5,9 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 # Clone Ubereats mobile and admin dashboard \
+\f0\fs24 \cf0 ![Preview](/logo.png)\
+\
+#Clone Ubereats mobile and admin dashboard \
 \
 The UberEats Clone application is a comprehensive solution for building a food delivery marketplace platform. Developed using React Native, it offers fully functional mobile apps for three key roles: customers, delivery drivers, and restaurant owners. The application is optimized for both iOS and Android platforms, ensuring a seamless user experience across devices.\
 \
@@ -34,11 +36,11 @@ Overall, the UberEats Clone application in React Native offers a feature-rich an
 \
 \
 \
-### Video Preview of Final UI\
+#Video Preview of Final UI\
 \
 ![Preview](/Uber Eats Demo.mp4)\
 \
-## Screens it contains:\
+#Screens it contains:\
 \
 => UberEats Clone (Consumer app)\
 \
