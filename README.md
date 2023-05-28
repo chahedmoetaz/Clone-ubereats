@@ -41,6 +41,8 @@ Overall, the UberEats Clone application in React Native offers a feature-rich an
 
 => Admin Dashboard for React Native UberEats App\
 
+Please note that Clone uberteats is a customized application developed for a specific client, sharing the source code may not be feasible due to confidentiality and intellectual property reasons. However, the provided description outlines the key functionalities and features of the application.
+**feel free to contact us : https://wa.me/21654120687 or chahedmoetaz@gmail.com  **
 ## Photos
 ![Preview](/1.jpg)\
 ![Preview](2.jpg)\
